@@ -61,7 +61,7 @@ Audio Encoder: 355 Pontos
 Video Player: 270 Pontos
 28.6 FPS
 
-Teste de comandos no Terminal:
+# Teste de comandos no Terminal:
 
 Criar pasta: mkdir nome_da_pasta ;
 
