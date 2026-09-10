@@ -61,6 +61,42 @@ Audio Encoder: 355 Pontos
 Video Player: 270 Pontos
 28.6 FPS
 
+# Multi-Core Performance
+
+Multi-Core Score:	1386	Pontos
+
+File Compression: 1150 Pontos
+163.6 MB/sec	
+ 
+Photo Library: 1301 Pontos
+4.46 images/sec	
+ 
+Clang: 1258 Pontos
+6.80 Klines/sec	
+ 
+Text Processing: 652 Pontos
+38.5 pages/sec	
+ 
+Asset Compression: 1753 Pontos
+39.0 MB/sec	
+ 
+HDR: 1544 Pontos
+93.3 Mpixels/sec	
+ 
+Photo Editor: 1920 Pontos
+35.3 images/sec	
+ 
+Ray Tracer: 2136 Pontos
+600.0 Ksamples/sec
+
+# Teste de Inicialização:
+
+20.213s Para inicializar.
+
+# Teste de Tempo de Download:
+
+31 Minutos para instalar.
+
 # Teste de comandos no Terminal:
 
 Criar pasta: mkdir nome_da_pasta ;
