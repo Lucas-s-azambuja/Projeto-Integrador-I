@@ -8,6 +8,12 @@ Setup da máquina virtual: 6GB de memória RAM;
 Cap de processamento 100%;
 Número de monitores virtuais: 1;
 
+#Espaço necessário:
+
+6.5GB De espaço de disco usado;
+
+2.8GB Uso de memória RAM.
+
 [Teste de Benchmark Ubuntu usando Geekbench7](https://browser.geekbench.com/v7/cpu/303194):
 
 # Single-Core Performance
