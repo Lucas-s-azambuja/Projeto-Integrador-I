@@ -8,7 +8,7 @@ Setup da máquina virtual: 6GB de memória RAM;
 Cap de processamento 100%;
 Número de monitores virtuais: 1;
 
-#Espaço necessário:
+# Espaço necessário:
 
 6.5GB De espaço de disco usado;
 
