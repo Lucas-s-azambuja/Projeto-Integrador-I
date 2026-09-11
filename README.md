@@ -97,3 +97,43 @@ Photo Editor: 1755 Pontos
  
 Ray Tracer: 2048 Pontos
 575.4 Ksamples/sec
+
+# Teste de Inicialização
+
+1m e 53.221s.
+
+# Teste de tempo de Download
+
+1 Hora.
+
+# Teste de comandos no Terminal
+
+Criar pasta: mkdir nome_da_pasta ;
+
+
+Abrir programas: Apenas digitar o nome do programa em letras minusculas ;
+
+
+Abrir arquivos: xdg-open . (Abrir a pasta atual no Explorador de Arquivos), xdg-open nome_do_arquivo (Abrir qualquer arquivo com o programa padrão do sistema), cat nome_do_arquivo.txt (Lê o arquivo no terminal em si).
+
+nano nome_do_arquivo (Abri o arquivo em um editor de texto);
+
+
+Instalar programas e pacotes: sudo apt install nome_do_programa .
+
+
+Navegação: cd nome_da_pasta (Vai até a pasta);
+
+cd (Volta até a pasta mãe);
+
+ls (Lista os contêudos da pasta atual);
+
+pwd (Mostra o caminho de pastas até a sua atual);
+
+rm nome_do_arquivo (Remove permanentemente um arquivo);
+
+rm -r nome_da_pasta (Remove uma pasta e tudo que se localiza dentro dela);
+
+touch nome_do_arquivo.txt (Cria um arquivo em branco);
+
+mv origem destino (move ou renomeia uma pasta/arquivo).
