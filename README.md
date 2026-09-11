@@ -1,7 +1,9 @@
 # Testes na máquina virtual VirtualBox na distribuição Ubuntu
 Branch criado para guardar os testes usando Ubuntu.
 
-Setup da máquina virtual: 6GB de memória RAM;
+# Setup da máquina virtual:
+
+6GB de memória RAM;
 25GB de memória de disco;
 256MB VRAM (O máximo que da para colocar na VirtualBox);
 4 Processadores de CPU;
