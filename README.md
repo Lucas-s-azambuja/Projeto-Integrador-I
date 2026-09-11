@@ -14,6 +14,7 @@ Número de monitores virtuais: 1.
 # Espaço necessário
 
 10.3GB de espaço de disco;
+
 6.3Gi de espaço RAM.
 
 [https://browser.geekbench.com/v7/cpu/318396](Geekbench7)
