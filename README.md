@@ -17,7 +17,7 @@ Número de monitores virtuais: 1.
 
 6.3Gi de espaço RAM.
 
-[https://browser.geekbench.com/v7/cpu/318396](Geekbench7)
+[https://browser.geekbench.com/v7/cpu/318396] (Geekbench7)
 
 # Single-Core Performance
 
