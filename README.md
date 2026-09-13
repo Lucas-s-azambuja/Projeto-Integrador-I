@@ -9,6 +9,6 @@ Processador: Intel Xeon E5 2620 v3 2.40GHz
 
 Memória RAM: DDR4 16GB (Duas memórias tamanho 8GB)
 
-Memória VRAM: GDDR5 8GB
-
 Placa Gráfica: AMD Radeon RX 580 2048SP
+
+Memória VRAM: GDDR5 8GB
