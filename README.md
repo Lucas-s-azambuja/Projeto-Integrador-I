@@ -3,12 +3,12 @@ Repositório criado para guardar todas as atividades criadas durante o curso da 
 
 # Especificações da Máquina onde os testes ocorreram:
 
-CPU: Machinist X99-k9
+Placa Mãe: Machinist X99-k9
 
 Processador: Intel Xeon E5 2620 v3 2.40GHz
 
 Memória RAM: DDR4 16GB (Duas memórias tamanho 8GB)
 
-Placa Gráfica: AMD Radeon RX 580 2048SP
+Placa de Vídeo: AMD Radeon RX 580 2048SP
 
 Memória VRAM: GDDR5 8GB
