@@ -16,6 +16,12 @@ Número de monitores virtuais: 1;
 
 2.8Gi Uso de memória RAM.
 
+# Uso da CPU
+
+Idle ia de 1.7% até 5% de uso.
+Tarefas leves iam de 30.01% até 40.05% de uso.
+Tarefas pesadas ele oscilava bastante de 89.9% até 97.9% de uso (usando o app stress-ng para estressar a CPU).
+
 [Teste de Benchmark Ubuntu usando Geekbench7](https://browser.geekbench.com/v7/cpu/303194):
 
 # Single-Core Performance
