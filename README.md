@@ -17,6 +17,12 @@ Número de monitores virtuais: 1.
 
 6.3Gi de espaço RAM.
 
+# Uso da CPU
+
+Idle ia de 0.4% até 2.4% de uso.
+Tarefas leves iam de 30.06% até 40.01% de uso.
+Tarefas pesadas 99.4% a 99.9% de uso (Usando o app stress-ng para estressar a CPU).
+
 [https://browser.geekbench.com/v7/cpu/318396] (Geekbench7)
 
 # Single-Core Performance
