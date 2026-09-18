@@ -111,7 +111,7 @@ Ray Tracer: 2048 Pontos
 
 # Teste de tempo de Download
 
-1 Hora para instalar.
+1 Hora e 4 minutos para instalar.
 
 # Teste de comandos no Terminal
 
